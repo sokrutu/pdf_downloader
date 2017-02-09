@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='pdf_downloader',
-    version='0.1',
+    version='0.2',
     packages=['pdf_downloader'],
     url='https://github.com/sokrutu/pdf_downloader',
     license='MIT',
