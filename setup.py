@@ -4,7 +4,7 @@ setup(
     name='pdf_downloader',
     version='0.1',
     packages=['pdf_downloader'],
-    url='https://github.com/sokrutu/PdfDownloader',
+    url='https://github.com/sokrutu/pdf_downloader',
     license='MIT',
     author='Mathias Pfeiffer',
     author_email='mathias.pfeiffer@rwth-aachen.de',
